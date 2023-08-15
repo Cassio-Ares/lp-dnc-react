@@ -1,0 +1,22 @@
+.header{
+    background-image: url('../image/background-1.svg');
+    color: #FFFFFF;  
+}
+
+header img{
+    display: flex;
+    align-items: left; 
+    padding: 3rem;
+}
+
+header section{
+    text-align: left;
+    padding-left: 10rem;
+    margin-top: -2rem;
+    padding-bottom: 4rem;
+}
+
+h1{
+    font-size: 2.3rem;
+}
+
