@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    margin-top: 3rem;
+    padding-left: 10rem;
+}
+
+
+.main div{
+   display: flex;
+   flex-direction: column;
+   margin: auto;
+}
+
+.main h2{
+    color: #247BA0;
+}
+
+.main p{
+    text-align: left;
+
+}
+
