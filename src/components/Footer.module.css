@@ -1,0 +1,38 @@
+
+.footer{
+    margin-top: rem;
+}
+
+.footer form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2.5rem;
+    align-items: center;
+}
+
+.footer input{
+    width: 25rem;
+    height: 3rem;
+    margin: 1rem;
+    border-radius: 10px;
+    border: none;
+    background-color: #c2c4be;
+    padding-left: 1rem;
+}
+
+.footer button{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 10px;
+    border: none;
+    background-color: #247BA0;
+    margin: 2rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #52b2db;
+    
+    transform: translateY(-7px);
+
+}

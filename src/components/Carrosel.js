@@ -8,20 +8,20 @@ import setaEsq from '../image/setaEsq.svg'
 
 function Carrossel() {
     
-    var setaEsqe = document.getElementById("setaE");
+    var setaEsque = document.getElementById("setaE");
     var cardBrun= document.getElementById('cardBru');
     var cardLeon = document.getElementById('cardLeo');
     var cardSaman = document.getElementById('cardSama');
     var setaDiret = document.getElementById('setaD')
 
     function clickEsquerda(){
-        setaEsqe.style = "display:none"
+        setaEsque.style = "display:none"
         cardBrun.style = "display:none"
         cardSaman.style = "display:flex"         
     }
 
     function clickDireita(){
-        setaEsqe.style = "display:flex"
+        setaEsque.style = "display:flex"
         cardBrun.style = "display:flex"
         cardSaman.style = "display:none"       
     }
