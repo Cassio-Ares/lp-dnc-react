@@ -1,0 +1,22 @@
+.carrossel{
+    background-image: url('../image/background-3.svg');
+    margin-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.carrossel h2{
+    color: #EAECE5;
+    padding-top: 4rem;
+}
+
+.carrossel section{
+    display: flex;
+    padding-top: 4rem;
+}
+
+.carrossel img{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+
